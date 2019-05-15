@@ -1,2 +1,2 @@
-# SchoolManagement
+# School Management
 Result Management System
